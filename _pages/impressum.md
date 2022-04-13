@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Impressum – Legal Notice
+title: Legal Notice - Impressum 
 include_in_header: false
 ---
 # The following information (Impressum) is required under German law.
